@@ -1,6 +1,6 @@
 # Local verification — 2026-10-09
 
-Verified locally on arm64 macOS using Apple Swift 6.3.3. Only Command Line Tools were installed; `xcodebuild -version` reported that full Xcode is required. No iOS target or iOS build is claimed. The published macOS source also passed [GitHub Actions run 37919176184](https://github.com/Borep1945/devscope/actions/runs/37919176184), commit `1e496b83a0544b9174311903d625f8936adb3465`. Local results and UI coverage are described below.
+Verified locally on arm64 macOS using Apple Swift 6.3.3. Only Command Line Tools were installed; `xcodebuild -version` reported that full Xcode is required. No iOS target or iOS build is claimed. The published macOS source also passed [GitHub Actions run 37919176184](https://github.com/corevail/devscope/actions/runs/37919176184), commit `1e496b83a0544b9174311903d625f8936adb3465`. Local results and UI coverage are described below.
 
 ## Completed
 
